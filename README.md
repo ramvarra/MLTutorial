@@ -1,4 +1,4 @@
-# Machine Laerning Tutorial
+# Machine Learning Tutorial
 Practical Machine Learning Tutorial using Python. 
 
 ### Requirements
